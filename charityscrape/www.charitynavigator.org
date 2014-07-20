@@ -1,0 +1,1281 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" 
+	  xmlns:og="http://opengraphprotocol.org/schema/" 
+      xmlns:fb="http://www.facebook.com/2008/fbml">
+      
+<head><script type="text/javascript">/* <![CDATA[ */_cf_loadingtexthtml="<img alt=' ' src='/cf-scripts/ajax/resources/cf/images/loading.gif'/>";
+_cf_contextpath="";
+_cf_ajaxscriptsrc="/cf-scripts/ajax";
+_cf_jsonprefix='//';
+_cf_clientid='F9133E52AA697D1B1C6586F492D5E4FB';/* ]]> */</script><script type="text/javascript" src="/cf-scripts/ajax/messages/cfmessage.js"></script>
+<script type="text/javascript" src="/cf-scripts/ajax/package/cfajax.js"></script>
+<script type="text/javascript" src="/cf-scripts/cfform.js"></script>
+<script type="text/javascript" src="/cf-scripts/masks.js"></script>
+<script type="text/javascript" src="/cf-scripts/cfformhistory.js"></script>
+<script type="text/javascript" src="/cf-scripts/ajax/yui/yahoo-dom-event/yahoo-dom-event.js"></script>
+<script type="text/javascript" src="/cf-scripts/ajax/yui/animation/animation-min.js"></script>
+<script type="text/javascript" src="/cf-scripts/ajax/ext/adapter/yui/ext-yui-adapter.js"></script>
+<script type="text/javascript" src="/cf-scripts/ajax/ext/ext-all.js"></script>
+<script type="text/javascript" src="/cf-scripts/ajax/package/cfwindow.js"></script>
+<link rel="stylesheet" type="text/css" href="/cf-scripts/ajax/resources/ext/css/ext-all.css" />
+<link rel="stylesheet" type="text/css" href="/cf-scripts/ajax/resources/cf/cf.css" />
+  
+<base href="http://www.charitynavigator.org/" />
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<title>Charity Navigator Rating - Doctors Without Borders, USA</title>
+<meta name="MSSmartTagsPreventParsing" content="TRUE" />
+<meta name="keywords" content="best charity,best charities,charitable contribution,charitable donation,charitable donations,charitable giving,charities,charity,charity directory,charity rating,charity ratings,charity watchdog,donate money,donating funds,donations,donors,giving money,guide,non profit,nonprofit,non-profit,organization,philanthropic,philanthropy,ratings,tax deduction,tithing,wise giving" />
+<meta name="description" content="Doctors Without Borders, USA is a International charity rated 4 of 4 stars by Charity Navigator. Located in New York, NY, it is one of 7,610 organizations rated by Charity Navigator." />
+<meta property="fb:page_id" content="72994058780" />
+<meta property="fb:app_id" content="455191431231125"/>
+
+	<meta property="og:title" content="Charity Navigator Rating - Doctors Without Borders, USA"/>
+    <meta property="og:type" content="non_profit"/>
+    <meta property="og:url" content="http://www.charitynavigator.org/index.cfm?bay=search.summary&orgid=3628"/>
+    <meta property="og:image" content="http://www.charitynavigator.org/_gfx_/promo/printable/jpegs/general_square.jpg"/>
+    <meta property="og:site_name" content="Charity Navigator"/>
+    <meta property="og:description" content="Doctors Without Borders, USA is a International charity rated 4 of 4 stars by Charity Navigator. Located in New York, NY, it is one of 7,610 organizations rated by Charity Navigator."/>
+
+<link rel="stylesheet" href="http://www.charitynavigator.org/_css_/style.css?v=15" type="text/css" />
+<link rel="stylesheet" href="http://www.charitynavigator.org/_css_/navbar.css" type="text/css" />
+<link rel="shortcut icon" href="http://www.charitynavigator.org/favicon.ico" type="image/x-icon" />
+
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<link rel="stylesheet" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.4/themes/smoothness/jquery-ui.css" />
+<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.4/jquery-ui.min.js"></script>
+<script src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+
+
+
+
+
+
+<script src="http://www.charitynavigator.org/_js_/utility.js?v=2" type="text/javascript"></script>
+
+<script language="JavaScript" type="text/javascript">
+	window.onunload = function(){};
+</script>
+
+<script type="text/javascript">
+<!--
+var form_submitted = false;
+
+function submit_form ( )
+{
+  if ( form_submitted )
+  {
+    alert ( "Your form has already been submitted. Please wait a moment for the search to complete. \nIf the page does not load please refresh this page." );
+    return false;
+  }
+  else
+  {
+    form_submitted = true;
+    return true;
+  }
+}
+// -->
+</script>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-560507-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+		
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+
+<script type="text/javascript">
+function trackOutboundLink(link, category, action) { 
+ 
+try { 
+_gaq.push(['_trackEvent', category , action]); 
+} catch(err){}
+ 
+setTimeout(function() {
+document.location.href = link.href;
+}, 100);
+}
+</script>
+<script type='text/javascript'>
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+(function() {
+var gads = document.createElement('script');
+gads.async = true;
+gads.type = 'text/javascript';
+var useSSL = 'https:' == document.location.protocol;
+gads.src = (useSSL ? 'https:' : 'http:') + 
+'//www.googletagservices.com/tag/js/gpt.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(gads, node);
+})();
+</script>
+
+<script type='text/javascript'>
+googletag.cmd.push(function() {
+var slot1=googletag.defineSlot('/1364794/CN_Full_Banner_Pop_Ups', [468, 60], 'div-gpt-ad-1364025014670-0').addService(googletag.pubads());slot1.set("adsense_channel_ids","1106005737");
+var slot2=googletag.defineSlot('/1364794/CN_Leaderboard_Top', [728, 90], 'div-gpt-ad-1364025014670-1').addService(googletag.pubads());slot2.set("adsense_channel_ids","2582738938");
+var slot3=googletag.defineSlot('/1364794/CN_Med.Rec_Home', [300, 250], 'div-gpt-ad-1364025014670-2').addService(googletag.pubads());slot3.set("adsense_channel_ids","4059472139");
+var slot4=googletag.defineSlot('/1364794/CN_Wide_Skyscraper_Sidebar', [160, 600], 'div-gpt-ad-1364025014670-3').addService(googletag.pubads());slot4.set("adsense_channel_ids","5536205336");
+googletag.pubads().enableSingleRequest();
+googletag.enableServices();
+});
+</script> <!--/*Google Feedback Form*/-->
+<script async="" defer="" src="//survey.g.doubleclick.net/async_survey?site=lbfxsfm3jubtw"></script> 
+
+
+	<script type="text/javascript" src="//www.google.com/jsapi"></script>
+    <script type="text/javascript">
+      google.load('visualization', '1', {packages: ['corechart']});
+    </script>
+    
+    
+<script type="text/javascript">/* <![CDATA[ */
+	ColdFusion.Ajax.importTag('CFAJAXPROXY');
+/* ]]> */</script>
+
+<script type="text/javascript">/* <![CDATA[ */
+	ColdFusion.Ajax.importTag('CFFORM');
+/* ]]> */</script>
+
+<script type="text/javascript">/* <![CDATA[ */
+	ColdFusion.Ajax.importTag('CFWINDOW');
+/* ]]> */</script>
+
+<script type="text/javascript">/* <![CDATA[ */
+	var _cf_window_init_1405714955520=function()
+	{
+		_cf_bind_init_1405714955521=function()
+		{
+			ColdFusion.Bind.register([],{'bindTo':'window133433452_body','bindExpr':['http://www.charitynavigator.org/my/charities/addchar.cfm?EIN=133433452&qstring=bay%3Dsearch%2Esummary%26orgid%3D3628']},ColdFusion.Bind.urlBindHandler,false);
+		};ColdFusion.Event.registerOnLoad(_cf_bind_init_1405714955521);var _cf_window=ColdFusion.Window.create('window133433452','','http://www.charitynavigator.org/my/charities/addchar.cfm?EIN=133433452&qstring=bay%3Dsearch%2Esummary%26orgid%3D3628',{ modal:true, closable:true, divid:'cf_window1405714955519', draggable:false, resizable:false, fixedcenter:true, width:300, height:300, shadow:true, bodystyle:'background-color:white;', callfromtag:true, initshow:false, destroyonclose:false, _cf_refreshOnShow:true});
+	};ColdFusion.Event.registerOnLoad(_cf_window_init_1405714955520);
+/* ]]> */</script>
+
+    <script type="text/javascript">
+      function drawVisualization3() {
+        // Create and populate the data table.
+        var data = google.visualization.arrayToDataTable([
+          ['Source', 'Dollars'],
+          ['Contributions, Gifts & Grants', 186659755.0000],
+          ['Federated Campaigns', 2418653.0000],
+          ['Membership Dues', 26685.0000],
+		  ['Fundraising Events', 144443.0000],
+		  ['Related Organizations', 0.0000],
+		  ['Government Grants', 0.0000]
+        ]);
+      
+	  	  	var formatter = new google.visualization.NumberFormat({prefix: '$',fractionDigits: 0});
+  formatter.format(data, 1); // Apply formatter to second column
+	  
+        // Create and draw the visualization.
+        new google.visualization.PieChart(document.getElementById('chart_revenue')).
+            draw(data, {title:"Contributions Breakdown",chartArea:{left:40,top:60,width:"95%",height:"95%"},titleTextStyle:{fontSize: 14},fontName: '"Arial"'});
+      
+	  }
+      
+      google.setOnLoadCallback(drawVisualization3);
+    </script>
+    
+
+    <script type="text/javascript">
+      function drawVisualization() {
+        // Create and populate the data table.
+        var data = google.visualization.arrayToDataTable([
+          ['Expense', 'Dollars'],
+          ['Program', 179835191.0000],
+          ['Administrative', 2733114.0000],
+          ['Fundraising', 24435335.0000]
+        ]);
+      
+	  	var formatter = new google.visualization.NumberFormat({prefix: '$',fractionDigits: 0});
+  formatter.format(data, 1); // Apply formatter to second column
+			  
+        // Create and draw the visualization.
+        new google.visualization.PieChart(document.getElementById('chart_efficiency')).
+            draw(data, {title:"Expenses Breakdown",chartArea:{left:40,top:60,width:"95%",height:"95%"},titleTextStyle:{fontSize: 14},fontName: '"Arial"'});
+      
+	  }
+      
+      google.setOnLoadCallback(drawVisualization);
+    </script>
+     
+    <script type="text/javascript">
+      function drawVisualization2() {
+        // Create and populate the data table.
+        var data = google.visualization.arrayToDataTable([
+          ['Year', 'Primary Revenue', 'Program Expenses'],
+        ['2009',  142885623.0000,   124080477.0000], ['2010',  273486584.0000,   180751269.0000], ['2011',  190923886.0000,   153245178.0000], ['2012',  199921513.0000,   179835191.0000] 
+        ]);
+      
+		  	var formatter = new google.visualization.NumberFormat({prefix: '$',fractionDigits: 0});
+  formatter.format(data, 1); // Apply formatter to second column
+	 formatter.format(data, 2); // Apply formatter to third column
+	
+        // Create and draw the visualization.
+        new google.visualization.ColumnChart(document.getElementById('chart_capacity')).
+            draw(data,
+                 {title:"Revenue/Expenses Trend",
+                  chartArea:{left:40,top:80,width:"90%",height:"70%"}, 
+                  vAxis: {minValue: 0,textPosition:'none'},titleTextStyle:{fontSize: 14},fontName: '"Arial"'
+				 , legend: {position: 'top',alignment: 'end'}
+				  }
+            );
+      }
+      
+
+      google.setOnLoadCallback(drawVisualization2);
+    </script>
+
+<script type="text/javascript">
+function setStyle(objId, style, value) {
+    document.getElementById(objId).style[style] = value;
+}	
+function KeyWordsCheck(formname) {
+  if(document.forms[formname].keyword_list.value=="enter charity name or keywords here")
+	{
+    document.forms[formname].keyword_list.value="";
+	setStyle("keyword_list","color","black");
+	}
+}
+	
+</script>
+</head>
+
+<body  onload="visibilitytoggle();">
+
+<!-- ClickTale Top part -->
+<script type="text/javascript">
+var WRInitTime=(new Date()).getTime();
+</script>
+<!-- ClickTale end of Top part --> <div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script> 
+<div id="wrapper">
+<div id="wrapper2">
+<div id="top"><a href="/"><img src="http://www.charitynavigator.org/_gfx_/main/CN_Logo_Main373x112.png" alt="Charity Navigator" width="373" height="112" border="0" /></a>
+
+
+
+<div id="topuser">
+ 
+    <a href="https://www.charitynavigator.org/index.cfm?bay=my.login"><strong>Sign
+    in</strong></a>  | New
+    User? <a href="https://www.charitynavigator.org/index.cfm?bay=my.login"><strong>Register
+    now to access expanded features.</strong></a>  |  &nbsp;<a href="index.cfm?bay=content.view&amp;cpid=485">FAQ</a>
+  
+  
+</div> <a href="index.cfm?bay=my.login"><img class="btnSubscribeToCN" src="http://www.charitynavigator.org/_gfx_/buttons/newsletter_subscribe.jpg" alt="Subscribe" height="44" width="203" /></a>
+<a href="index.cfm?bay=content.support"><img class="btnDonateToCN" src="http://www.charitynavigator.org/_gfx_/buttons/donate_to_cn.jpg" alt="Donate to Charity Navigator" height="44" width="150" /></a>
+  
+</div>
+
+
+
+<div id="navback">
+	<div id="nav">
+		<ul id="navx" class="drop">
+			<li><a href="/">Home</a></li>
+	<li><a href="https://www.charitynavigator.org/index.cfm?bay=my.login">My Charities</a></li>
+			<li><a href="index.cfm?bay=topten">Top Ten Lists</a>
+				<ul class="subtext">
+				
+    				<li><a href="index.cfm?bay=topten.detail&amp;listid=148">10 Most Followed Charities</a></li>
+				
+    				<li><a href="index.cfm?bay=topten.detail&amp;listid=22">10 Celebrity-Related Charities</a></li>
+				
+    				<li><a href="index.cfm?bay=topten.detail&amp;listid=24">10 Super-Sized Charities</a></li>
+				
+    				<li><a href="index.cfm?bay=topten.detail&amp;listid=11">10 Charities Expanding in a Hurry</a></li>
+				
+    				<li><a href="index.cfm?bay=topten.detail&amp;listid=15">10 Most Frequently Viewed Charities</a></li>
+				
+    				<li><a href="index.cfm?bay=topten.detail&amp;listid=145">Top 10 Charities That Earn the Highest % of Donations at Year-End</a></li>
+				
+    				<li><a href="index.cfm?bay=topten.detail&amp;listid=164">10 Consistently Low Rated Charities</a></li>
+				
+    				<li><a href="index.cfm?bay=topten.detail&amp;listid=28">10 Charities Overpaying their For-Profit Fundraisers</a></li>
+				
+    				<li><a href="index.cfm?bay=topten.detail&amp;listid=92">10 Highly-Rated Charities with Low Paid CEOs</a></li>
+				
+    				<li><a href="index.cfm?bay=topten.detail&amp;listid=100">10 Charities with the Most Consecutive 4-Star Ratings</a></li>
+				
+    				<li><a href="index.cfm?bay=topten.detail&amp;listid=113">10 Top-Notch Charities</a></li>
+				
+    				<li><a href="index.cfm?bay=topten.detail&amp;listid=16">10 Charities Routinely in the Red</a></li>
+				
+    				<li><a href="index.cfm?bay=topten.detail&amp;listid=17">10 Highly Rated Charities Relying on Private Contributions</a></li>
+				
+    				<li><a href="index.cfm?bay=topten.detail&amp;listid=18">10 of the Best Charities Everyone's Heard Of</a></li>
+				
+    				<li><a href="index.cfm?bay=topten.detail&amp;listid=12">10 Charities in Deep Financial Trouble</a></li>
+				
+    				<li><a href="index.cfm?bay=topten.detail&amp;listid=7">10 Charities Worth Watching</a></li>
+				
+    				<li><a href="index.cfm?bay=topten.detail&amp;listid=8">10 Highly Paid CEOs at Low-Rated Charities</a></li>
+				
+    				<li><a href="index.cfm?bay=topten.detail&amp;listid=10">10 Inefficient Fundraisers</a></li>
+				
+			</ul>                                          
+	  		</li>                        
+			<li><a href="index.cfm?bay=content.view&cpid=489">Hot Topics</a>
+				<ul class="subtext">
+                
+    				<li><a href="index.cfm?bay=content.view&amp;cpid=531">Support Our Troops</a></li>
+  				
+    				<li><a href="index.cfm?bay=content.view&amp;cpid=497">Charities Working to Prevent and Cure Breast Cancer</a></li>
+  				
+    				<li><a href="index.cfm?bay=content.view&amp;cpid=949">Celebrities Put Star-Power to Good Use</a></li>
+  				
+				</ul>
+			</li>
+			<li><a href="index.cfm?bay=content.view&cpid=33">Methodology</a>
+				<ul class="subtext">
+               	
+					<li><a href="index.cfm?bay=content.view&amp;cpid=32">What Kind of Charities Do We Evaluate?</a></li>
+				
+					<li><a href="index.cfm?bay=content.view&amp;cpid=34">How Do We Classify Charities?</a></li>
+				
+					<li><a href="index.cfm?bay=content.view&amp;cpid=1284">How Do We Rate Charities?</a></li>
+				
+					<li><a href="index.cfm?bay=content.view&amp;cpid=35">How Do We Rate Charities' Financial Health?</a></li>
+				
+					<li><a href="index.cfm?bay=content.view&amp;cpid=48">Financial Ratings Tables</a></li>
+				
+					<li><a href="index.cfm?bay=content.view&amp;cpid=1093">How Do We Rate Charities' Accountability and Transparency?</a></li>
+				
+					<li><a href="index.cfm?bay=content.view&amp;cpid=1283">Accountability and Transparency Ratings Tables</a></li>
+				
+					<li><a href="index.cfm?bay=content.view&amp;cpid=1287">How Do We Calculate  the Overall Score and Star Rating?</a></li>
+				
+					<li><a href="index.cfm?bay=content.view&amp;cpid=43">What Do Our Ratings Mean?</a></li>
+				
+					<li><a href="index.cfm?bay=content.view&amp;cpid=441">How Current are Our Ratings?</a></li>
+				
+					<li><a href="index.cfm?bay=content.view&amp;cpid=439">What Other Information Do We Present on the Charities We Evaluate?</a></li>
+				
+					<li><a href="index.cfm?bay=content.view&amp;cpid=1072">How Do We Decide To Post A Donor Advisory?</a></li>
+				
+					<li><a href="index.cfm?bay=content.view&amp;cpid=1323">How Do We Decide To Remove A Donor Advisory?</a></li>
+				
+					<li><a href="index.cfm?bay=content.view&amp;cpid=1699">How Do We Decide To Add A Charity to the CN Watchlist?</a></li>
+				
+					<li><a href="index.cfm?bay=content.view&amp;cpid=1700">How Do We Decide To Remove Charity from the CN Watchlist?</a></li>
+				
+					<li><a href="index.cfm?bay=content.view&amp;cpid=1507">How Do We Plan To Evaluate Results Reporting?</a></li>
+				
+					<li><a href="index.cfm?bay=content.view&amp;cpid=470">Glossary of Terms</a></li>
+				                        
+				</ul>  
+			</li>
+			<li class="end">Tips for Donors
+				<ul class="subtext">
+               	
+					<li><a href="index.cfm?bay=content.view&amp;cpid=419">Top 10 Best Practices of Savvy Donors</a></li>
+				
+					<li><a href="index.cfm?bay=content.view&amp;cpid=1635">Should You Buy that Charity Affiliated Product?</a></li>
+				
+					<li><a href="index.cfm?bay=content.view&amp;cpid=310">Tips For Giving In Times Of Crisis</a></li>
+				
+					<li><a href="index.cfm?bay=content.view&amp;cpid=1209">Questions To Ask Charities Before Donating</a></li>
+				
+					<li><a href="index.cfm?bay=content.view&amp;cpid=329">Tips For Older Donors</a></li>
+				
+					<li><a href="index.cfm?bay=content.view&amp;cpid=224">What To Do When A Charity Calls</a></li>
+				
+					<li><a href="index.cfm?bay=content.view&amp;cpid=254">How To Stop Solicitations By Mail</a></li>
+				
+					<li><a href="index.cfm?bay=content.view&amp;cpid=313">Protecting Yourself From Online Scams</a></li>
+				
+					<li><a href="index.cfm?bay=content.view&amp;cpid=847">Evaluating Charities Not Currently Rated by Charity Navigator</a></li>
+				
+					<li><a href="index.cfm?bay=content.view&amp;cpid=31">Tax Benefits of Giving</a></li>
+				
+					<li><a href="index.cfm?bay=content.view&amp;cpid=158">Guide To Donating Your Car</a></li>
+				
+					<li><a href="index.cfm?bay=content.view&amp;cpid=335">Guide to Donating Noncash Items</a></li>
+				
+					<li><a href="index.cfm?bay=content.view&amp;cpid=201">Guide To Volunteering</a></li>
+				
+					<li><a href="index.cfm?bay=content.view&amp;cpid=159">Guide To Giving In The Workplace</a></li>
+				
+					<li><a href="index.cfm?bay=content.view&amp;cpid=1559">Types of Nonprofits</a></li>
+				
+					<li><a href="index.cfm?bay=content.view&amp;cpid=42">Giving Statistics</a></li>
+				
+					<li><a href="index.cfm?bay=content.view&amp;cpid=1360">Online Giving Statistics</a></li>
+				
+					<li><a href="index.cfm?bay=content.view&amp;cpid=30">A Donor's Bill of Rights</a></li>
+				
+					<li><a href="index.cfm?bay=content.view&amp;cpid=40">Giving Calculator</a></li>
+				
+				</ul>                            
+			</li>
+		</ul>
+	</div>
+</div>
+
+<div id="search">
+
+
+<form id="simplesearch" name="simplesearch" method="get" action="index.cfm"  onsubmit="return submit_form()">
+  <img align="absmiddle" src="http://www.charitynavigator.org/_gfx_/main/charity_search3.gif" alt="Charity Search" width="137" height="17" />&nbsp;
+  <input name="keyword_list" type="text" class="searchbox" id="keyword_list" value="enter charity name or keywords here" maxlength="75" onfocus="KeyWordsCheck('simplesearch')" />
+  <input class="checkBox" name="nameonly" type="checkbox" id="nameonly" value="1" style="vertical-align:middle;" />
+<span class="gray">Name Only</span>
+<input name="Submit2" type="submit" class="btnSrchSubmit" id="btnSrchSubmit" value="GO" onclick="KeyWordsCheck('simplesearch')" />
+  &nbsp;|&nbsp; <a href="index.cfm?bay=search.advanced">Advanced</a>&nbsp;  |&nbsp; <a href="index.cfm?bay=search.alpha">A-Z
+  Directory&nbsp;</a> |&nbsp; <a href="index.cfm?bay=search.results&amp;overallrtg=4">4-Star
+  Charities</a>&nbsp; | &nbsp;<a href="index.cfm?bay=search.map">World Map
+  </a>
+  <input name="bay" type="hidden" id="bay" value="search.results" />
+</form> 
+
+</div>
+<div id="bodywrap">
+
+<div id="cn_body"> 
+<div style="float:right; padding:30px 5px 5px 5px; text-align:center; width: 100px;"><a href="javascript:openBrWindow('http://www.charitynavigator.org/_shared_/disclaimer.cfm','glossary','scrollbars=yes,width=400,height=300')" onmouseover="self.status='Why ads?';return true;" onmouseout="self.status='';return true;">Why are these <br />
+ads here?</a></div>
+<div id="leaderboard" style="padding:5px;">
+    <div id='div-gpt-ad-1364025014670-1' style='width:728px; height:90px; margin:auto;'>
+      <script type='text/javascript'>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1364025014670-1'); });
+    </script>
+    </div>
+</div>
+
+
+<div id="cn_body_inner"> 
+
+
+ 
+
+<div id="leftcontent">
+
+
+<div id="leftnav">
+   <h1>Charity Rating</h1>
+</div>  
+<div id="leftnavcontent"> 
+   <div class="rating">
+     
+
+		    <p><strong>Doctors Without Borders, USA</strong><br />
+		
+			333 Seventh Avenue<br />
+			2nd Floor<br /> New York,&nbsp;NY&nbsp;10001<br />
+			tel: (888) 392-0392<br /> fax: (212) 679-7016<br /> 
+            <a href="javascript:openBrWindow('http://www.charitynavigator.org/index.cfm?bay=glossary.word&amp;word=EIN%20%28Employer%20Identification%20Number%29&amp;print=1','glossary','scrollbars=yes,width=625,height=300')" class="" onmouseover="self.status='See Definition of [Ein (Employer Identification Number)]';return true;" onmouseout="self.status='';return true;">EIN</a>: 13-3433452
+			</p>
+
+
+<p><strong>Mail donations to:</strong><br />
+P.O. Box 5030<br />
+Hagerstown, MD 21741
+</p>
+	
+
+	<p><a href="JavaScript: if(confirm('You must be a registered user (FREE) and logged in view the email address.\n\rPress OK in order to be sent to our login and registration 	page.')){location.href='https://www.charitynavigator.org/index.cfm?bay=my.login&returnurl=http%3A%2F%2Fwww%2Echaritynavigator%2Eorg%2Findex%2Ecfm%3Fbay%3Dsearch%2Ehistory%2526orgid%3D3628';}">Contact Email</a><br /> <a href="http://www.doctorswithoutborders.org" target="_blank" onClick="_gaq.push(['_trackEvent', 'Outbound', 'OrgSite', '3628']);">Visit Web Site</a></p>
+
+
+   </div> 
+<div>
+
+</div>
+<div>
+
+    <h1>Board Leadership</h1> 
+<p>
+  <strong>Deane Marchbein</strong><br />President</p>
+
+<h1>CEO</h1>
+<p><strong>Sophie Delaunay</strong><br />
+Executive Director</p>
+
+<br />
+
+<h1>Give From Your Donor Advised Fund</h1>
+  <iframe frameborder="0" width="190" height="250" src="/search/fidelity.cfm?orgid=3628" scrolling="auto" style="margin:0px; padding:0px; border: 0;"></iframe>
+
+
+
+	
+</div>
+</div>
+
+
+
+
+
+</div>
+
+<div id="maincontent">
+<div id ="maincontent2">
+
+
+<p class="crumbs">International : Development and Relief Services</p>     
+     
+       
+	   
+<h1 class="charityname">Doctors Without Borders, USA</h1>
+<h2 class="tagline">Providing emergency medical care</h2> 
+
+<div  id="cf_window1405714955519" class="x-hidden">
+	
+	<div  id="window133433452_title" class="x-window-header">
+		&nbsp;
+	 </div>
+	<div  id="window133433452_body" class="x-window-body" style="background-color:white;">
+		
+		
+	 </div>
+ </div> 
+<!-- AddThis Button BEGIN -->
+<div class="addthis_toolbox addthis_default_style addthis_32x32_style">&nbsp;
+
+<a href="javascript: ColdFusion.Window.show('window133433452');"><span class="shareBtn">Add to My Charities</span></a>
+
+<a href="https://www.networkforgood.org/donate/MakeDonation2.aspx?orgid2=133433452&amp;source=CN&amp;CMPGN=CRPG" target="_blank" onClick="_gaq.push(['_trackEvent', 'Outbound', 'DonateNow', '133433452']);"><span class="greenBack shareBtn">Donate</span></a>
+
+
+<a href="http://www.charitynavigator.org/index.cfm?bay=search.summary&orgid=3628&print=1"><span class="grayBack shareBtn">Print</span></a>
+<span class="share">Share</span>
+<a class="addthis_button_facebook"></a>
+<a class="addthis_button_twitter"></a>
+<a class="addthis_button_linkedin"></a>
+<a class="addthis_button_compact"></a>
+
+</div>
+
+<script type="text/javascript">var addthis_config = {"data_track_addressbar":true};</script>
+
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=charitynav"></script>
+<!-- AddThis Button END -->
+
+
+
+
+  
+                  
+    <div id="summary">
+      
+ <div class="tabs">
+    <ul>
+      <li><a href="http://www.charitynavigator.org/index.cfm?bay=search.summary&orgid=3628"  class="current">Current Rating</a></li>
+	
+    
+      <li><a href="JavaScript: if(confirm('You must be a registered user (FREE) and logged in to use this feature.\n\rPress OK in order to be sent to our login and registration page.')){location.href='https://www.charitynavigator.org/index.cfm?bay=my.login&returnurl=http%3A%2F%2Fwww%2Echaritynavigator%2Eorg%2Findex%2Ecfm%3Fbay%3Dsearch%2Ehistory%2526orgid%3D3628';}" >History</a></li>
+	<li><a href="index.cfm?bay=search.irs&amp;ein=133433452" >IRS</a></li>
+       <li><a href="index.cfm?bay=search.comments&amp;orgid=3628" >Comments</a></li>
+      
+
+    </ul>
+  </div>
+
+      <div class="summarywrap">
+		
+        
+		  <div class="summaryBox">
+                  
+<div class="rating">
+  <table width="100%" border="0" cellpadding="0" cellspacing="2">
+              
+                 <tr>
+                   <td colspan="2" valign="top"><div class="shadedtable">
+                     <table width="100%" border="0" cellspacing="1" cellpadding="3">
+                       <tr>
+                         <th>&nbsp;</th>
+                         <th class="centerme">Score (out of 70)</th>
+                         <th class="centerme">Rating<br />
+                         FYE 12/2012</th>
+                       </tr>
+                       <tr>
+                         <td style="font-size:20px;"><strong>Overall</strong></td>
+                         <td align="center">62.03</td>
+                             <td align="center">
+                             <strong><img src="_gfx_/icons/stars/4stars.png" width="61" height="15" alt="4 stars" title="4 stars"  />
+    					</strong></td>
+                           </tr>
+                       <tr>
+                         <td><strong>&nbsp;&nbsp;Financial</strong></td>
+                         <td align="center">61.18</td>
+                         <td align="center"><strong><img src="_gfx_/icons/stars/4starsb.png" width="31" height="8" alt="4 stars" title="4 stars" /></strong></td>
+                       </tr>
+                       <tr>
+                         <td class="bottom"><strong>&nbsp;&nbsp;Accountability &amp; Transparency</strong></td>
+                         <td class="bottom" align="center">63.00</td>
+                         <td class="bottom" align="center"><strong><img src="_gfx_/icons/stars/4starsb.png" width="31" height="8" alt="4 stars" title="4 stars" /> </strong></td>
+                       </tr>
+                     </table></div>
+                   </td>
+                 </tr>
+              </table>
+            
+        <p align="center">
+      <img src="_gfx_/charts/CharityGraphics2/77537.png?v=16" alt="Overall Rating Chart" width="500" height="492" /></p>     
+   
+    <p align="center"><a href="javascript:openBrWindow('http://www.charitynavigator.org/index.cfm?bay=content.view&amp;cpid=1287&amp;print=1','glossary','scrollbars=yes,width=625,height=400')">Learn more about how we calculate the overall score and rating.</a></p>
+    <div class="shadedtable">
+<table width="100%" border="0" cellpadding="0" cellspacing="2">
+                  
+                  <tr>
+                    <th colspan="3"><strong>Financial Performance Metrics</strong></th>
+        </tr>
+                  <tr>
+                    <td>&nbsp;</td>
+                    <td><a class="glossary" href="javascript:openBrWindow('http://www.charitynavigator.org/index.cfm?bay=glossary.word&amp;word=Program%20Expenses&amp;mid=7&amp;cid=20&amp;print=1','glossary','scrollbars=yes,width=625,height=400')" onmouseover="self.status='See Definition of [Program Expenses]';return true;" onmouseout="self.status='';return true;">Program Expenses</a><br />
+                    <em>(Percent of the charity’s budget spent on the programs <br />
+                    and services it  delivers)</em></td>
+                    <td align="right" valign="top"> 86.8%</td>
+                  </tr>
+                  <tr>
+                    <td>&nbsp;</td>
+                    <td><a class="glossary" href="javascript:openBrWindow('http://www.charitynavigator.org/index.cfm?bay=glossary.word&amp;word=Administrative%20Expenses&amp;mid=3&amp;cid=20&amp;print=1','glossary','scrollbars=yes,width=625,height=400')" onmouseover="self.status='See Definition of [Administrative Expenses]';return true;" onmouseout="self.status='';return true;">Administrative Expenses</a></td>
+                    <td align="right">  1.3%</td>
+                  </tr>
+                  <tr>
+                    <td>&nbsp;</td>
+                    <td><a class="glossary" href="javascript:openBrWindow('http://www.charitynavigator.org/index.cfm?bay=glossary.word&amp;word=Fundraising%20Expenses&amp;mid=2&amp;cid=20&amp;print=1','glossary','scrollbars=yes,width=625,height=400')" onmouseover="self.status='See Definition of [Fundraising Expenses]';return true;" onmouseout="self.status='';return true;">Fundraising Expenses</a></td>
+                    <td align="right"> 11.8%</td>
+                  </tr>
+                  <tr>
+                    <td>&nbsp;</td>
+                    <td><a class="glossary" href="javascript:openBrWindow('http://www.charitynavigator.org/index.cfm?bay=glossary.word&amp;word=Fundraising%20Efficiency&amp;mid=1&amp;cid=20&amp;print=1','glossary','scrollbars=yes,width=625,height=400')" onmouseover="self.status='See Definition of [Fundraising Efficiency]';return true;" onmouseout="self.status='';return true;">Fundraising Efficiency</a></td>
+                    <td align="right">$0.12</td>
+                  </tr>
+                  <tr>
+                    <td>&nbsp;</td>
+                    <td><a class="glossary" href="javascript:openBrWindow('http://www.charitynavigator.org/index.cfm?bay=glossary.word&amp;word=Primary%20Revenue%20Growth&amp;mid=5&amp;cid=20&amp;print=1','glossary','scrollbars=yes,width=625,height=400')" onmouseover="self.status='See Definition of [Primary Revenue Growth]';return true;" onmouseout="self.status='';return true;">Primary Revenue Growth</a><em></em></td>
+                    <td align="right"> 11.8%</td>
+                  </tr>
+                  <tr>
+                    <td>&nbsp;</td>
+                    <td><a class="glossary" href="javascript:openBrWindow('http://www.charitynavigator.org/index.cfm?bay=glossary.word&amp;word=Program%20Expenses%20Growth&amp;mid=6&amp;cid=20&amp;print=1','glossary','scrollbars=yes,width=625,height=400')" onmouseover="self.status='See Definition of [Program Expenses Growth]';return true;" onmouseout="self.status='';return true;">Program Expenses Growth</a><em></em></td>
+                    <td align="right"> 13.2%</td>
+                  </tr>
+                  <tr>
+                    <td class="bottom">&nbsp;</td>
+                    <td class="bottom"><a class="glossary" href="javascript:openBrWindow('http://www.charitynavigator.org/index.cfm?bay=glossary.word&amp;word=Working%20Capital%20Ratio&amp;mid=4&amp;cid=20&amp;print=1','glossary','scrollbars=yes,width=625,height=400')" onmouseover="self.status='See Definition of [Working Capital Ratio]';return true;" onmouseout="self.status='';return true;">Working Capital Ratio</a> (years) </td>
+                    <td class="bottom" align="right">0.77</td>
+                  </tr>
+                  
+      </table>
+    </div>
+           
+<p>&nbsp;</p>
+<div class="shadedtable">
+  <table width="100%" border="0" cellpadding="0" cellspacing="2">
+    
+    <tr>
+      <th colspan="3" valign="top"><strong>Accountability &amp; Transparency Performance Metrics</strong></th>
+      </tr>
+    <tr>
+      <td colspan="2" valign="top"><strong>Information Provided on the Form 990</strong></td>
+      <td width="40" valign="top">&nbsp;</td>
+      </tr>
+    <tr>
+      <td valign="top">&nbsp;</td>
+      <td valign="top"><a class="glossary" href="javascript:openBrWindow('http://www.charitynavigator.org/index.cfm?bay=glossary.word&amp;gid=50&amp;print=1','glossary','scrollbars=yes,width=625,height=400')" onmouseover="self.status='See Definition';return true;" onmouseout="self.status='';return true;">Independent Voting Board Members</a></td>
+      <td align="right" valign="top"><img src="_gfx_/icons/checked.gif" width="15" height="21" /></td>
+      </tr>
+    
+    <tr>
+      <td valign="top">&nbsp;</td>
+      <td valign="top"><a class="glossary" href="javascript:openBrWindow('http://www.charitynavigator.org/index.cfm?bay=glossary.word&amp;gid=56&amp;print=1','glossary','scrollbars=yes,width=625,height=400')" onmouseover="self.status='See Definition';return true;" onmouseout="self.status='';return true;">No Material diversion of assets</a></td>
+      <td align="right" valign="top"><img src="_gfx_/icons/checked.gif" width="15" height="21" /></td>
+      </tr>
+    
+    <tr>
+      <td valign="top">&nbsp;</td>
+      <td valign="top"><a class="glossary" href="javascript:openBrWindow('http://www.charitynavigator.org/index.cfm?bay=glossary.word&amp;gid=57&amp;print=1','glossary','scrollbars=yes,width=625,height=400')" onmouseover="self.status='See Definition';return true;" onmouseout="self.status='';return true;">Audited financials  prepared by independent accountant</a></td>
+      <td align="right" valign="top"><img src="_gfx_/icons/checked.gif" width="15" height="21" /></td>
+      </tr>
+    <tr>
+      <td valign="top">&nbsp;</td>
+      <td valign="top"><a class="glossary" href="javascript:openBrWindow('http://www.charitynavigator.org/index.cfm?bay=glossary.word&amp;gid=55&amp;print=1','glossary','scrollbars=yes,width=625,height=400')" onmouseover="self.status='See Definition';return true;" onmouseout="self.status='';return true;">Does Not Provide Loan(s) to or Receive Loan(s) From related parties</a></td>
+      <td align="right" valign="top"><img src="_gfx_/icons/checked.gif" width="15" height="21" /></td>
+      </tr>
+    <tr>
+      <td valign="top">&nbsp;</td>
+      <td valign="top"><a class="glossary" href="javascript:openBrWindow('http://www.charitynavigator.org/index.cfm?bay=glossary.word&amp;gid=51&amp;print=1','glossary','scrollbars=yes,width=625,height=400')" onmouseover="self.status='See Definition';return true;" onmouseout="self.status='';return true;">Documents Board Meeting Minutes</a></td>
+      <td align="right" valign="top"><img src="_gfx_/icons/checked.gif" width="15" height="21" /></td>
+      </tr>
+    <tr>
+      <td valign="top">&nbsp;</td>
+      <td valign="top"><a class="glossary" href="javascript:openBrWindow('http://www.charitynavigator.org/index.cfm?bay=glossary.word&amp;gid=52&amp;print=1','glossary','scrollbars=yes,width=625,height=400')" onmouseover="self.status='See Definition';return true;" onmouseout="self.status='';return true;">Provided copy of Form 990  to organization's governing body in advance of filing</a></td>
+      <td align="right" valign="top"><img src="_gfx_/icons/checked.gif" width="15" height="21" /></td>
+      </tr>
+    <tr>
+      <td valign="top">&nbsp;</td>
+      <td valign="top"><a class="glossary" href="javascript:openBrWindow('http://www.charitynavigator.org/index.cfm?bay=glossary.word&amp;gid=53&amp;print=1','glossary','scrollbars=yes,width=625,height=400')" onmouseover="self.status='See Definition';return true;" onmouseout="self.status='';return true;">Conflict of Interest  Policy</a></td>
+      <td align="right" valign="top"><img src="_gfx_/icons/checked.gif" width="15" height="21" /></td>
+      </tr>
+    <tr>
+      <td valign="top">&nbsp;</td>
+      <td valign="top"><a class="glossary" href="javascript:openBrWindow('http://www.charitynavigator.org/index.cfm?bay=glossary.word&amp;gid=54&amp;print=1','glossary','scrollbars=yes,width=625,height=400')" onmouseover="self.status='See Definition';return true;" onmouseout="self.status='';return true;">Whistleblower Policy</a></td>
+      <td align="right" valign="top"><img src="_gfx_/icons/checked.gif" width="15" height="21" /></td>
+      </tr>
+    <tr>
+      <td valign="top">&nbsp;</td>
+      <td valign="top"><a class="glossary" href="javascript:openBrWindow('http://www.charitynavigator.org/index.cfm?bay=glossary.word&amp;gid=58&amp;print=1','glossary','scrollbars=yes,width=625,height=400')" onmouseover="self.status='See Definition';return true;" onmouseout="self.status='';return true;">Records Retention and Destruction Policy</a></td>
+      <td align="right" valign="top"><img src="_gfx_/icons/checked.gif" width="15" height="21" /></td>
+      </tr>
+    <tr>
+      <td valign="top">&nbsp;</td>
+      <td valign="top"><a class="glossary" href="javascript:openBrWindow('http://www.charitynavigator.org/index.cfm?bay=glossary.word&amp;gid=59&amp;print=1','glossary','scrollbars=yes,width=625,height=400')" onmouseover="self.status='See Definition';return true;" onmouseout="self.status='';return true;">CEO listed with  salary</a></td>
+      <td align="right" valign="top"><img src="_gfx_/icons/checked.gif" width="15" height="21" /></td>
+      </tr>
+    <tr>
+      <td valign="top">&nbsp;</td>
+      <td valign="top"><a class="glossary" href="javascript:openBrWindow('http://www.charitynavigator.org/index.cfm?bay=glossary.word&amp;gid=61&amp;print=1','glossary','scrollbars=yes,width=625,height=400')" onmouseover="self.status='See Definition';return true;" onmouseout="self.status='';return true;">Process for determining  CEO compensation</a></td>
+      <td align="right" valign="top"><img src="_gfx_/icons/checked.gif" width="15" height="21" /></td>
+      </tr>
+    <tr>
+      <td valign="top">&nbsp;</td>
+      <td valign="top"><a class="glossary" href="javascript:openBrWindow('http://www.charitynavigator.org/index.cfm?bay=glossary.word&amp;gid=60&amp;print=1','glossary','scrollbars=yes,width=625,height=400')" onmouseover="self.status='See Definition';return true;" onmouseout="self.status='';return true;">Board Listed / Board Members Not Compensated</a></td>
+      <td align="right" valign="top"><img src="_gfx_/icons/checkboxX.gif" width="15" height="21" /></td>
+      </tr>
+    
+    <tr>
+      <td colspan="2" valign="top"><strong>Is the following information easily accessible on the charity's website?</strong></td>
+      <td valign="top">&nbsp;</td>
+      </tr>
+    <tr>
+      <td valign="top">&nbsp;</td>
+      <td valign="top"><a class="glossary" href="javascript:openBrWindow('http://www.charitynavigator.org/index.cfm?bay=glossary.word&amp;gid=66&amp;print=1','glossary','scrollbars=yes,width=625,height=400')" onmouseover="self.status='See Definition';return true;" onmouseout="self.status='';return true;">Donor Privacy  Policy</a></td>
+      <td align="right" valign="top" nowrap="nowrap"><img src="_gfx_/icons/checkboxOptOut.png" width="15" height="21" /></td>
+      </tr>
+    <tr>
+      <td width="20" valign="top">&nbsp;</td>
+      <td valign="top"><a class="glossary" href="javascript:openBrWindow('http://www.charitynavigator.org/index.cfm?bay=glossary.word&amp;gid=63&amp;print=1','glossary','scrollbars=yes,width=625,height=400')" onmouseover="self.status='See Definition';return true;" onmouseout="self.status='';return true;">Board Members Listed</a></td>
+      <td valign="top" align="right"><img src="_gfx_/icons/checked.gif" width="15" height="21" /></td>
+      </tr>
+    
+    <tr>
+      <td valign="top">&nbsp;</td>
+      <td valign="top"><a class="glossary" href="javascript:openBrWindow('http://www.charitynavigator.org/index.cfm?bay=glossary.word&amp;gid=64&amp;print=1','glossary','scrollbars=yes,width=625,height=400')" onmouseover="self.status='See Definition';return true;" onmouseout="self.status='';return true;">Audited Financials</a></td>
+      <td align="right" valign="top"><img src="_gfx_/icons/checked.gif" width="15" height="21" /></td>
+      </tr>
+    <tr>
+      <td valign="top">&nbsp;</td>
+      <td valign="top"><a class="glossary" href="javascript:openBrWindow('http://www.charitynavigator.org/index.cfm?bay=glossary.word&amp;gid=65&amp;print=1','glossary','scrollbars=yes,width=625,height=400')" onmouseover="self.status='See Definition';return true;" onmouseout="self.status='';return true;">Form 990</a> 
+        
+        </td>
+      <td align="right" valign="top"><img src="_gfx_/icons/checked.gif" width="15" height="21" /></td>
+      </tr>              
+    <tr>
+      <td class="bottom" valign="top">&nbsp;</td>
+      <td class="bottom" valign="top"><a class="glossary" href="javascript:openBrWindow('http://www.charitynavigator.org/index.cfm?bay=glossary.word&amp;gid=62&amp;print=1','glossary','scrollbars=yes,width=625,height=400')" onmouseover="self.status='See Definition';return true;" onmouseout="self.status='';return true;">Key staff listed</a> </td>
+      <td class="bottom" align="right" valign="top"><img src="_gfx_/icons/checked.gif" width="15" height="21" /></td>
+      </tr>
+    
+    
+    
+  </table>
+</div>
+</div>
+          
+          </div>        
+          
+          <div class="summaryBox">
+            
+  <h2><a href="javascript:openBrWindow('http://www.charitynavigator.org/index.cfm?bay=glossary.word&amp;word=Income%20Statement&amp;print=1','glossary','scrollbars=yes,width=625,height=300')" class="glossary" onmouseover="self.status='See Definition of [Income Statement]';return true;" onmouseout="self.status='';return true;">Income Statement</a>&nbsp;&nbsp;&nbsp;&nbsp; (<a href="javascript:openBrWindow('http://www.charitynavigator.org/index.cfm?bay=glossary.word&amp;word=FYE&amp;print=1','glossary','scrollbars=yes,width=625,height=300')" class="glossary" onmouseover="self.status='See Definition of [Fye]';return true;" onmouseout="self.status='';return true;">FYE</a> 12/2012)</h2>
+  <div class="rating">
+    <table width="100%" border="0" cellspacing="2" cellpadding="0">
+    <tr>
+        <td><strong><a href="javascript:openBrWindow('http://www.charitynavigator.org/index.cfm?bay=glossary.word&amp;word=REVENUE&amp;print=1','glossary','scrollbars=yes,width=625,height=300')" class="glossary" onmouseover="self.status='See Definition of [Revenue]';return true;" onmouseout="self.status='';return true;">REVENUE</a></strong></td>
+        <td>&nbsp;</td>
+      </tr>
+        
+          <tr>
+            <td><strong>Contributions</strong></td>
+            <td align="right">&nbsp;</td>
+          </tr>
+          <tr>
+            <td>&nbsp;&nbsp;&nbsp;Contributions, Gifts &amp; Grants</td>
+            <td align="right">$186,659,755</td>
+          </tr>
+          <tr>
+        <td>&nbsp;&nbsp;&nbsp;Federated Campaigns</td>
+        <td align="right">$2,418,653</td>
+      </tr>
+      <tr>
+        <td>&nbsp;&nbsp;&nbsp;Membership Dues</td>
+        <td align="right">$26,685</td>
+      </tr>
+      <tr>
+        <td>&nbsp;&nbsp;&nbsp;Fundraising Events</td>
+        <td align="right">$144,443</td>
+      </tr>
+      <tr>
+        <td>&nbsp;&nbsp;&nbsp;Related Organizations</td>
+        <td align="right">$0</td>
+      </tr>
+      <tr>
+        <td>&nbsp;&nbsp;&nbsp;Government Grants</td>
+        <td align="right">$0</td>
+      </tr>
+       
+      <tr>
+        <td><strong>Total Contributions</strong></td>
+        <td align="right">$189,249,536</td>
+      </tr>
+      <tr>
+        <td>&nbsp;&nbsp;&nbsp;Program Service Revenue</td>
+        <td align="right">$10,671,977</td>
+      </tr>
+	 
+
+	 
+      <tr>
+        <td><strong><a class="glossary" href="javascript:openBrWindow('http://www.charitynavigator.org/index.cfm?bay=glossary.word&amp;gid=10&amp;print=1','glossary','scrollbars=yes,width=625,height=400')" onmouseover="self.status='See Definition';return true;" onmouseout="self.status='';return true;">Total Primary Revenue</a></strong></td>
+        <td align="right">$199,921,513</td>
+      </tr>
+      <tr>
+        <td>&nbsp;&nbsp;&nbsp;<a href="javascript:openBrWindow('http://www.charitynavigator.org/index.cfm?bay=glossary.word&amp;word=Other%20Revenue&amp;print=1','glossary','scrollbars=yes,width=625,height=300')" class="glossary" onmouseover="self.status='See Definition of [Other Revenue]';return true;" onmouseout="self.status='';return true;">Other Revenue</a></td>
+        <td align="right">$372,929</td>
+      </tr>
+      <tr>
+        <td><strong>TOTAL REVENUE</strong></td>
+        <td align="right"><strong>$200,294,442</strong></td>
+      </tr>
+
+      <tr>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <td><strong><a href="javascript:openBrWindow('http://www.charitynavigator.org/index.cfm?bay=glossary.word&amp;word=EXPENSES&amp;print=1','glossary','scrollbars=yes,width=625,height=300')" class="glossary" onmouseover="self.status='See Definition of [Expenses]';return true;" onmouseout="self.status='';return true;">EXPENSES</a> </strong></td>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <td>&nbsp;&nbsp;&nbsp;<a href="javascript:openBrWindow('http://www.charitynavigator.org/index.cfm?bay=glossary.word&amp;word=Program%20Expenses&amp;print=1','glossary','scrollbars=yes,width=625,height=300')" class="glossary" onmouseover="self.status='See Definition of [Program Expenses]';return true;" onmouseout="self.status='';return true;">Program Expenses</a></td>
+        <td align="right">$179,835,191</td>
+      </tr>
+      <tr>
+        <td>&nbsp;&nbsp;&nbsp;<a href="javascript:openBrWindow('http://www.charitynavigator.org/index.cfm?bay=glossary.word&amp;word=Administrative%20Expenses&amp;print=1','glossary','scrollbars=yes,width=625,height=300')" class="glossary" onmouseover="self.status='See Definition of [Administrative Expenses]';return true;" onmouseout="self.status='';return true;">Administrative Expenses</a></td>
+        <td align="right">$2,733,114</td>
+      </tr>
+      <tr>
+        <td>&nbsp;&nbsp;&nbsp;<a href="javascript:openBrWindow('http://www.charitynavigator.org/index.cfm?bay=glossary.word&amp;word=Fundraising%20Expenses&amp;print=1','glossary','scrollbars=yes,width=625,height=300')" class="glossary" onmouseover="self.status='See Definition of [Fundraising Expenses]';return true;" onmouseout="self.status='';return true;">Fundraising Expenses</a></td>
+        <td align="right">$24,435,335</td>
+      </tr>
+      <tr>
+        <td><strong><a href="javascript:openBrWindow('http://www.charitynavigator.org/index.cfm?bay=glossary.word&amp;word=TOTAL%20FUNCTIONAL%20EXPENSES&amp;print=1','glossary','scrollbars=yes,width=625,height=300')" class="glossary" onmouseover="self.status='See Definition of [Total Functional Expenses]';return true;" onmouseout="self.status='';return true;">TOTAL FUNCTIONAL EXPENSES</a></strong></td>
+        <td align="right"><strong>$207,003,640</strong></td>
+      </tr>
+      <tr>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <td><a href="javascript:openBrWindow('http://www.charitynavigator.org/index.cfm?bay=glossary.word&amp;word=Payments%20to%20Affiliates&amp;print=1','glossary','scrollbars=yes,width=625,height=300')" class="glossary" onmouseover="self.status='See Definition of [Payments to Affiliates]';return true;" onmouseout="self.status='';return true;">Payments to Affiliates</a></td>
+        <td align="right">$0</td>
+      </tr>
+      <tr>
+        <td><a href="javascript:openBrWindow('http://www.charitynavigator.org/index.cfm?bay=glossary.word&amp;word=Excess%20%28or%20Deficit%29&amp;print=1','glossary','scrollbars=yes,width=625,height=300')" class="glossary" onmouseover="self.status='See Definition of [Excess (or Deficit)]';return true;" onmouseout="self.status='';return true;">Excess (or Deficit)</a> for the year </td>
+        <td align="right">$-6,709,198</td>
+      </tr>
+      <tr>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <td><a href="javascript:openBrWindow('http://www.charitynavigator.org/index.cfm?bay=glossary.word&amp;word=Net%20Assets&amp;print=1','glossary','scrollbars=yes,width=625,height=300')" class="glossary" onmouseover="self.status='See Definition of [Net Assets]';return true;" onmouseout="self.status='';return true;">Net Assets</a></td>
+        <td align="right">$160,912,434</td>
+      </tr>
+    </table>
+  </div>
+  
+
+          </div>
+	
+          <div class="summaryBox">
+            <h2>Charts </h2>
+              
+
+    <div id="chart_revenue" style="width: 550px; height: 300px;"></div>
+  
+
+
+    <div id="chart_efficiency" style="width: 550px; height: 300px;"></div>
+  
+ 
+    <div id="chart_capacity" style="width: 550px; height: 400px;"></div>
+
+
+
+          </div>
+	
+		<div  class="summaryBox">
+            <h2>Compensation of Leaders&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(<a href="javascript:openBrWindow('http://www.charitynavigator.org/index.cfm?bay=glossary.word&amp;word=FYE&amp;print=1','glossary','scrollbars=yes,width=625,height=300')" class="glossary" onmouseover="self.status='See Definition of [Fye]';return true;" onmouseout="self.status='';return true;">FYE</a> 12/2012) </h2>
+            <table class="summaryPage" width="100%" border="0" cellspacing="2" cellpadding="0">
+              <tr>
+                <th class="leftalign" scope="col"><span class="rightalign"><a href="javascript:openBrWindow('http://www.charitynavigator.org/index.cfm?bay=glossary.word&amp;word=Compensation&amp;print=1','glossary','scrollbars=yes,width=625,height=300')" class="glossary" onmouseover="self.status='See Definition of [Compensation]';return true;" onmouseout="self.status='';return true;">Compensation</a></span></th>
+                <th class="leftalign" scope="col"><span class="rightalign"><a href="javascript:openBrWindow('http://www.charitynavigator.org/index.cfm/bay/glossary.word/word/Leadership%20Compensation%20and%20Other%20Salaries%20of%20Note%20as%20a%20Percentage%20of%20Total%20Expenses/print/1.htm','glossary','scrollbars=yes,width=625,height=300')" class="glossary" onmouseover="self.status='See Definition of [% of Expenses]';return true;" onmouseout="self.status='';return true;">% of Expenses</a></span></th>
+                <th class="leftalign" scope="col">Paid to</th>
+                <th class="leftalign" scope="col">Title</th>
+                <th class="rightalign" scope="col"></th>
+              </tr>
+              <tr>
+                <td nowrap="nowrap"><span class="rightalign">
+                  
+                    $142,015 
+                </span></td>
+                <td nowrap="nowrap"><span class="rightalign">
+                    0.06% 
+                </span></td>
+                <td nowrap="nowrap">Sophie Delaunay</td>
+                <td>Executive Director</td>
+				
+                <td class="rightalign"></td>
+              </tr>
+              <tr>
+                <th colspan="5" class="leftalign"><a href="javascript:openBrWindow('http://www.charitynavigator.org/index.cfm?bay=glossary.word&amp;word=Other%20Salaries%20of%20Note&amp;print=1','glossary','scrollbars=yes,width=625,height=300')" class="glossary" onmouseover="self.status='See Definition of [Other Salaries of Note]';return true;" onmouseout="self.status='';return true;">Other Salaries of Note</a></th>
+              </tr> <tr>
+			    <td width="25%"><span class="rightalign">
+			      
+			        $29,530 
+			    </span></td>
+			    <td width="25%"><span class="rightalign">
+			        0.01% 
+			    </span></td>
+                <td width="25%">Matthew Spitzer</td>
+                <td>Director</td>
+                <td class="rightalign"></td>
+			  </tr>		  
+            </table>
+          </div>
+
+	         
+		  <div class="summaryBox"> 
+            <h2><a href="javascript:openBrWindow('http://www.charitynavigator.org/index.cfm?bay=glossary.word&amp;word=Mission&amp;print=1','glossary','scrollbars=yes,width=625,height=300')" class="glossary" onmouseover="self.status='See Definition of [Mission]';return true;" onmouseout="self.status='';return true;">Mission</a></h2>
+            <p>Doctors Without Borders, USA (DWB-USA) was founded in 1990 in New York City to raise funds, create awareness, recruit field staff, and advocate with the United Nations and US government on humanitarian concerns. Doctors Without Borders/Médecins Sans Frontières (MSF) is an international medical humanitarian organization that provides aid in nearly 60 countries to people whose survival is threatened by violence, neglect, or catastrophe, primarily due to armed conflict, epidemics, malnutrition, exclusion from health care, or natural disasters. In 2007, MSF-USA raised $152.1 million and sent 200 aid workers to work overseas.</p>
+          </div>
+        
+         
+<div class="summaryBox">
+              <h2>Charities Performing Similar Types of Work</h2>
+ 
+<h3>Highly Rated</h3>		 
+<div> 
+			<table class="summaryPage" width="100%" border="0" cellspacing="2" cellpadding="0">
+              <tr>
+                <th width="60%" class="leftalign" scope="col">Charity
+                  Name </th>
+                <th scope="col">Overall Score </th>
+                <th scope="col">Overall Rating </th>
+              </tr>
+             
+              <tr>
+                <td>Doctors Without Borders, USA - NY </td>
+                <td align="center">62.03</td>
+                <td align="center"><img src="_gfx_/icons/stars/4starsb.png" width="31" height="8" alt="4 stars" title="4 stars" /></td>
+              </tr>
+			 <tr>
+                <td><a href="index.cfm?bay=search.summary&amp;orgid=3220">Africare</a> - DC</td>
+                <td align="center">65.96</td>
+                <td align="center"><img src="_gfx_/icons/stars/4starsb.png" width="31" height="8" alt="4 stars" title="4 stars" /></td>
+              </tr><tr>
+                <td><a href="index.cfm?bay=search.summary&amp;orgid=10634">Episcopal Relief & Development</a> - NY</td>
+                <td align="center">58.48</td>
+                <td align="center"><img src="_gfx_/icons/stars/3starsb.png" width="31" height="8" alt="3 stars" title="3 stars" /></td>
+              </tr><tr>
+                <td><a href="index.cfm?bay=search.summary&amp;orgid=10278">United Methodist Committee on Relief</a> - NY</td>
+                <td align="center">56.81</td>
+                <td align="center"><img src="_gfx_/icons/stars/3starsb.png" width="31" height="8" alt="3 stars" title="3 stars" /></td>
+              </tr><tr>
+                <td><a href="index.cfm?bay=search.summary&amp;orgid=7685">Church World Service</a> - IN</td>
+                <td align="center">50.93</td>
+                <td align="center"><img src="_gfx_/icons/stars/3starsb.png" width="31" height="8" alt="3 stars" title="3 stars" /></td>
+              </tr> 
+     </table>
+	 
+	<form id="ratedForm" name="ratedForm" method="post" action="index.cfm">
+	<p align="center"><a href="JavaScript: if(confirm('You must be a registered user (FREE) and logged in to use this feature.\n\rPress OK in order to be sent to our login and registration page.')){location.href='http://www.charitynavigator.org/index.cfm?bay=my.login&returnurl=http%3A%2F%2Fwww%2Echaritynavigator%2Eorg%2Findex%2Ecfm%3Fbay%3Dsearch%2Esummary%2526orgid%3D3628';}" >Compare These Charities (Highly Rated)</a></p>
+					<input name="bay" type="hidden" id="bay" value="search.compare" />
+					<input name="compare" type="hidden" id="compare" value="3628,3220,10634,10278,7685" /></form>
+	</div>
+<h3>Most Viewed</h3>
+<div> 
+			<table class="summaryPage" width="100%" border="0" cellspacing="2" cellpadding="0">
+              <tr>
+                <th width="60%" class="leftalign" scope="col">Charity
+                  Name </th>
+                <th scope="col">Overall Score </th>
+                <th scope="col">Overall Rating </th>
+              </tr>
+             
+              <tr>
+                <td>Doctors Without Borders, USA - NY </td>
+                <td align="center">62.03</td>
+                <td align="center"><img src="_gfx_/icons/stars/4starsb.png" width="31" height="8" alt="4 stars" title="4 stars" /></td>
+              </tr>
+			 <tr>
+                <td><a href="index.cfm?bay=search.summary&amp;orgid=3809">Heifer Project International</a> - AR</td>
+                <td align="center">46.94</td>
+                <td align="center"><img src="_gfx_/icons/stars/2starsb.png" width="31" height="8" alt="2 stars" title="2 stars" /></td>
+              </tr><tr>
+                <td><a href="index.cfm?bay=search.summary&amp;orgid=4288">Oxfam America</a> - MA</td>
+                <td align="center">60.29</td>
+                <td align="center"><img src="_gfx_/icons/stars/4starsb.png" width="31" height="8" alt="4 stars" title="4 stars" /></td>
+              </tr><tr>
+                <td><a href="index.cfm?bay=search.summary&amp;orgid=4423">Samaritan's Purse</a> - NC</td>
+                <td align="center">65.90</td>
+                <td align="center"><img src="_gfx_/icons/stars/4starsb.png" width="31" height="8" alt="4 stars" title="4 stars" /></td>
+              </tr><tr>
+                <td><a href="index.cfm?bay=search.summary&amp;orgid=3568">CARE</a> - GA</td>
+                <td align="center">51.32</td>
+                <td align="center"><img src="_gfx_/icons/stars/3starsb.png" width="31" height="8" alt="3 stars" title="3 stars" /></td>
+              </tr> 
+     </table>
+	 
+<form id="viewedForm" name="viewedForm" method="post" action="index.cfm">
+<p align="center"><a href="JavaScript: if(confirm('You must be a registered user (FREE) and logged in to use this feature.\n\rPress OK in order to be sent to our login and registration page.')){location.href='http://www.charitynavigator.org/index.cfm?bay=my.login&returnurl=http%3A%2F%2Fwww%2Echaritynavigator%2Eorg%2Findex%2Ecfm%3Fbay%3Dsearch%2Esummary%2526orgid%3D3628';}" >Compare These Charities (Most Viewed)</a></p>
+                <input name="bay" type="hidden" id="bay" value="search.compare" />
+                <input name="compare" type="hidden" id="compare" value="3628,3809,4288,4423,3568" />
+</form> </div>	
+
+  </div>
+  
+  
+
+
+               <div class="summaryBox"><h1>Charity Login</h1>
+              <p>This charity has an official representative registered with Charity Navigator.</p> 
+              </div> 
+                    
+        
+      </div>
+    </div>
+ 
+  	
+
+  </div>
+</div>
+
+
+    <div id="margin_ad">
+    <div align="right">
+    
+<div id='div-gpt-ad-1364025014670-3' style='width:160px; height:600px;'>
+  <script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1364025014670-3'); });
+</script>
+</div>
+
+</div>
+	
+    </div> 
+<div class="spacer">&nbsp;</div>
+</div>
+
+<div class="spacer">&nbsp;</div>
+
+</div>
+<div id="footer">
+	<table align="center" border="0" cellpadding="10" width="930">
+		<tbody>
+			<tr>
+				<td scope="row" valign="top" width="25%">
+					<div class="footerlist">
+						<h2>
+							<a href="index.cfm?bay=content.view&amp;cpid=628">About Us</a></h2>
+						<ul>
+							<li>
+								<a href="index.cfm?bay=content.view&amp;cpid=17">Mission</a></li>
+							<li>
+								<a href="index.cfm?bay=content.view&amp;cpid=1193">Where We are Headed</a></li>
+							<li>
+								<a href="index.cfm?bay=content.view&amp;cpid=1535">History&nbsp;</a></li>
+							<li>
+								<a href="index.cfm?bay=content.view&amp;cpid=19">Board and Staff</a></li>
+							<li>
+								<a href="index.cfm?bay=content.view&amp;cpid=156">Join Our Team</a></li>
+							<li>
+								<a href="index.cfm?bay=content.view&amp;cpid=957">Advisory Panel</a></li>
+							<li>
+								<a href="index.cfm?bay=content.view&amp;cpid=1342">Financial Measures Task Force</a></li>
+							<li>
+								<a href="index.cfm?bay=content.view&amp;cpid=466">Press Room</a></li>
+							<li>
+								<a href="index.cfm?bay=content.view&amp;cpid=476">Endorsements</a></li>
+							<li>
+								<a href="index.cfm?bay=content.view&amp;cpid=931">Financials</a></li>
+							<li>
+								<a href="index.cfm?bay=content.view&amp;cpid=1607">Policies</a></li>
+							<li>
+								<a href="index.cfm?bay=content.view&amp;cpid=1113">Effectiveness &amp; Results</a></li>
+							<li>
+								<a href="http://www.charitynavigator.org/index.cfm?bay=content.view&amp;cpid=1745">President&#39;s Reports</a></li>
+							<li>
+								<a href="http://www.charitynavigator.org/index.cfm?bay=content.view&amp;cpid=1771">Annual Report</a></li>
+						</ul>
+					</div>
+				</td>
+				<td valign="top" width="25%">
+					<div class="footerlist">
+						<h2>
+							<a href="index.cfm?bay=content.support">Support Charity Navigator</a></h2>
+					</div>
+					<div class="footerlist">
+						<h2>
+							Using this Site</h2>
+						<ul>
+							<li>
+								<a href="index.cfm?bay=content.view&amp;cpid=37">Terms of Use</a></li>
+							<li>
+								<a href="http://www.charitynavigator.org/index.cfm?bay=content.view&amp;cpid=1722">Privacy Policy</a></li>
+							<li>
+								<a href="index.cfm?bay=content.view&amp;cpid=36">Copyright Notice</a></li>
+							<li>
+								<a href="index.cfm?bay=content.view&amp;cpid=479">Site Map</a></li>
+						</ul>
+					</div>
+					<div class="footerlist">
+						<h2>
+							Studies</h2>
+						<ul>
+							<li>
+								<a href="index.cfm?bay=studies.ceo">2013 CEO Compensation Study</a></li>
+							<li>
+								<a href="index.cfm?bay=studies.metro.main">2014 Metro Market Study</a></li>
+						</ul>
+					</div>
+				</td>
+				<td valign="top" width="25%">
+					<div class="footerlist">
+						<h2>
+							<a href="index.cfm?bay=content.articles">Articles</a></h2>
+						<h2>
+							Linking To Us</h2>
+						<ul>
+							<li>
+								<a class="active" href="index.cfm?bay=content.view&amp;cpid=137">How to Link to Us</a></li>
+							<li>
+								<a href="index.cfm?bay=content.view&amp;cpid=932">Search Widget</a></li>
+							<li>
+								<a href="index.cfm?bay=content.view&amp;cpid=475">Syndicated Content</a></li>
+						</ul>
+					</div>
+					<div class="footerlist">
+						<h2>
+							Products</h2>
+						<ul>
+							<li>
+								<a href="http://www.charitynavigator.org/index.cfm?bay=content.view&amp;cpid=1739">Hosted Solutions</a></li>
+							<li>
+								<a href="index.cfm?bay=content.view&amp;cpid=1397">Charity Navigator API</a></li>
+							<li>
+								<a href="index.cfm?bay=content.view&amp;cpid=1210">Related Books</a></li>
+							<li>
+								<a href="index.cfm?bay=content.view&amp;cpid=336">Ratings in Print</a></li>
+							<li>
+								<a href="index.cfm?bay=content.view&amp;cpid=202">Customized Charity Lists</a></li>
+						</ul>
+					</div>
+				</td>
+				<td valign="top" width="25%">
+					<div class="footerlist">
+						<h2>
+							<a href="http://help.charitynavigator.org/kb">FAQs</a></h2>
+						<h2>
+							<a href="index.cfm?bay=content.view&amp;cpid=459">Contact Us</a></h2>
+					</div>
+					<div class="footerlist">
+						<p>
+							Charity Navigator<br />
+							139 Harristown Rd Suite 101<br />
+							Glen Rock, NJ 07452</p>
+					</div>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="4" scope="row" valign="top">
+					
+<!-- Follow buttons BEGIN -->	
+
+<h2>Join Our Online Community</h2>
+<div style="width:560px; text-align:center; margin:auto;">
+<a href="http://www.facebook.com/charitynavigator" target="_blank"><img alt="Follow us on Facebook" border="0" height="29" src="/_gfx_/promo/Facebook_w75px_GIF.gif" width="75" /></a>
+<a href="http://twitter.com/CharityNav" target="_blank"><img alt="Follow us on Twitter" border="0" height="29" src="/_gfx_/promo/Twitter_w75px_GIF.gif" width="75" /></a>
+<a href="http://www.youtube.com/charitynavigator" target="_blank"> <img alt="Follow us on YouTube" border="0" height="29" src="/_gfx_/promo/YouTube_w75px_GIF.gif" width="75" /></a>
+<a href="http://pinterest.com/charitynav/" target="_blank"><img src="/_gfx_/promo/pinterest-button.jpg" alt="Follow us on Pinterest" width="79" height="29" border="0"  /></a>
+<a href="http://plus.google.com/+CharityNavigator/posts" target="_blank"><img src="/_gfx_/promo/googleplus_button.jpg" alt="Follow us on Google+"  width="79" height="29" border="0" /></a>
+<a href="http://vimeo.com/charitynavigator" target="_blank"><img src="/_gfx_/promo/vimeo_button.jpg" alt="Follow us on Vimeo" width="79" height="29" border="0" /></a>
+<a href="http://www.linkedin.com/company/charity-navigator" target="_blank"><img src="/_gfx_/promo/linkedin_button.jpg" alt="Follow us on LinkedIn" width="79" height="29" border="0" />
+</a>
+</div>
+<!-- Follow buttons END -->
+</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+
+
+
+</div>
+<div id="footer_final">Copyright &copy;2014 Charity Navigator.  All rights reserved.</div>
+
+<div id="footerads">
+  <table width="107" border="0" cellspacing="0" cellpadding="0" align="center">
+    <tr>
+      <td colspan="3" align="center">&nbsp;</td>
+      <td colspan="5" align="center">&nbsp;</td>
+      </tr>
+    <tr>
+      <td><strong>AWARDS</strong></td>
+      <td><img src="http://www.charitynavigator.org/_gfx_/promo/TIME_Coolest_Websites_Logo3.gif" alt="TIME" width="59" height="100" /></td>
+      <td><img src="http://www.charitynavigator.org/_gfx_/promo/forbes2.gif" alt="Forbes" width="80" height="72" border="0" class="top" /></td>
+      <td><strong>STRATEGIC PARTNERS</strong></td>
+      <td>&nbsp;</td>
+      <td><a href="http://www.inetu.net" target="_blank"><img title="Managed Cloud Hosting from INetU" src="http://www.charitynavigator.org/_gfx_/partners/Managed-Cloud-Hosting-INetU.png" width="107" height="35" alt="Managed Cloud Hosting from INetU" /></a></td>
+      <td><a href="http://www.donorperfect.com/?id=2247" target="_blank"><img src="http://www.charitynavigator.org/_gfx_/partners/dplogo-solo.png" width="120" height="28" alt="Donor Perfect" /></a></td>
+      <td><a href="http://www.3scale.net/" target="_blank"><img src="http://www.charitynavigator.org/_gfx_/partners/3scale.png" width="126" height="32" alt="3Scale" /></a></td>
+    </tr>
+    </table>
+  </div>
+
+
+</div>
+</div>
+<div>
+ 
+
+
+    <!-- ClickTale Bottom part -->
+    <div id="ClickTaleDiv" style="display: none;"></div>
+    <script type="text/javascript">
+    if(document.location.protocol!='https:')
+      document.write(unescape("%3Cscript%20src='http://s.clicktale.net/WRc5.js'%20type='text/javascript'%3E%3C/script%3E"));
+    </script>
+    <script type="text/javascript">
+    if(typeof ClickTale=='function') ClickTale(1596,0.00069,"www08");
+    </script>
+    <!-- ClickTale end of Bottom part -->
+<div id="help">
+	<a href="http://help.charitynavigator.org" id="help_link">Help & Support</a>
+</div>
+
+<script>
+$( "#help" ).show( "slide", { direction: "right" }, 1000 );
+</script>
+
+</body>
+</html> 
