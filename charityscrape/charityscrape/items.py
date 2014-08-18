@@ -20,6 +20,8 @@ class CharityscrapeItem(scrapy.Item):
     transperancy_Stars = scrapy.Field();
     rated_similar_charities = scrapy.Field();
     popular_similar_charities = scrapy.Field();
+    charity_url = scrapy.Field()
+
     
 
 """charity_EIN = scrapy.Field();
