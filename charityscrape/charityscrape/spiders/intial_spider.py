@@ -11,6 +11,10 @@ name of spiders must be unique.
 start_urls is where the spiders start to crawl from.
 parse() parses response data and extracts it.
 
+We go into the charity navigator directory and extract 
+all the individual pages' urls. Then goes to that url
+and extracts the data we need. 
+
 """
 
 class searchCategoriesSpider(scrapy.Spider):
@@ -59,18 +63,7 @@ class searchCategoriesSpider(scrapy.Spider):
 
 
 		for link in links:
-
-
 			
-			#item = CharityscrapeItem()
-			#item['charity_url'] = link
-		##	item['homepage_Link'] = response.xpath('//div/p/a[2]/@href').extract()
-		##	item['overall_starRating'] = response.xpath('//tr/td[@align="center"][1]/text()').extract()[0]
-		##	item['charity_phoneNumber'] = response.xpath('//div/div/div/div[@class="rating"]/p[1]/text()[4]').extract()
-		##	item['charity_address'] = response.xpath('//div/div/div/div[@class="rating"]/p/text()').extract()[0:3]
-		##	item['transperancy_Stars'] = response.xpath('//td[@class="bottom"][2]/text()').extract()
-		##	item['rated_similar_charities'] = response.xpath('//div/div/table[@class="summaryPage"][1]/tr/td/a/text()').extract()[0:4]
-		##	item['popular_similar_charities'] = response.xpath('//div/div/table[@class="summaryPage"][1]/tr/td/a/text()').extract()[4:8]
 			yield Request(url= link,  callback= self.parse_job, dont_filter=True)
 
 
