@@ -10,7 +10,7 @@ import scrapy
 
 class CharityscrapeItem(scrapy.Item):
     # define the fields for your item here like:
-    # name = scrapy.Field()
+    #name = scrapy.Field()
     charity_Name = scrapy.Field();
     homepage_Link = scrapy.Field();
     overall_starRating = scrapy.Field();

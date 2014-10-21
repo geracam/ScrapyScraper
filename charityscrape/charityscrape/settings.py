@@ -13,5 +13,6 @@ BOT_NAME = 'charityscrape'
 SPIDER_MODULES = ['charityscrape.spiders']
 NEWSPIDER_MODULE = 'charityscrape.spiders'
 
+
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 #USER_AGENT = 'charityscrape (+http://www.yourdomain.com)'

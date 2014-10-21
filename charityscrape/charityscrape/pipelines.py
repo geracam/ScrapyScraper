@@ -6,6 +6,18 @@
 # See: http://doc.scrapy.org/en/latest/topics/item-pipeline.html
 
 
-class CharityscrapePipeline(object):
+from scrapy.exceptions import DropItem
+
+class DuplicatesPipeline(object):
+
+    def __init__(self):
+        self.charity_names_seen = set()
+
     def process_item(self, item, spider):
-        return item
+        if item['charity_Name'][0] in self.charity_names_seen and len(item['charity_twitterHandle'])==0:
+
+
+            raise DropItem("Duplicate item found: %s" % item)
+        else:
+            self.charity_names_seen.add(item['charity_Name'][0])
+            return item
